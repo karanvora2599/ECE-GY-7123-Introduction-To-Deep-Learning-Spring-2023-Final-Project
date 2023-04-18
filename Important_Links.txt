@@ -1,3 +1,4 @@
 PASTE IMPORTANT AND RELEVANT LINKS HERE
 
 Visual Detection Dataset: https://cs.stanford.edu/people/ranjaykrishna/vrd/
+Visual Relationship Detection with Language Priors GitHub: https://github.com/Prof-Lu-Cewu/Visual-Relationship-Detection
